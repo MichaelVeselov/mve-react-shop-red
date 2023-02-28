@@ -1,7 +1,7 @@
-# Movies - function components version
+# Shop
 
 ## Portfolio React App - [Demo](https://mve-react-shop-red.vercel.app/)
 
-### Searchable and sortable movie card display application, using React + Vite
+### App Shop with items list and basket, using React + Vite
 
-![Movies](screenshot/movies.png 'Movies')
+![Shop](screenshot/shop.png 'Shop')
